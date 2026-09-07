@@ -107,14 +107,14 @@ packageJson = {
     ...exportsList,
   },
   keywords: ['is', 'mudbean', 'typeof', 'javascript type', '类型检测', 'vvi'],
-  homepage: 'https://npm.lmssee.com/is',
+  homepage: 'https://npm.gleanings.cn/is',
   bugs: {
-    url: 'https://github.com/MrMudBean/is/issues',
+    url: 'https://github.com/gleanings/is/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/is.git',
+    url: 'git+https://github.com/gleanings/is.git',
   },
   publishConfig: {
     access: 'public',
