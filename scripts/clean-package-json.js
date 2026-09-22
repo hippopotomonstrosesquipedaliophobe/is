@@ -107,7 +107,7 @@ packageJson = {
     ...exportsList,
   },
   keywords: ['is', 'mudbean', 'typeof', 'javascript type', '类型检测', 'vvi'],
-  homepage: 'https://npm.gleanings.cn/is',
+  homepage: 'https://npms.gleanings.cn/is',
   bugs: {
     url: 'https://github.com/gleanings/is/issues',
     email: 'Mr.MudBean@outlook.com',
