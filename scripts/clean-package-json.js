@@ -82,11 +82,10 @@ for (const childrenName of srcChildrenList) {
 packageJson = {
   ...packageJson,
   main: cjsPrefix + '/index.js', // 旧版本 CommonJs 入口
-  // module: esPrefix + '/index.js', // 旧版本 ESM 入口
   types: dtsPrefix + '/index.d.ts', // 旧版本类型入口
   author: {
     name: '泥豆君',
-    email: 'Mr.MudBean@outlook.com',
+    email: 'MudBean@outlook.com',
     url: 'https://mudbean.cn',
   },
   description: 'JavaScript/TypeScript 的类型检测工具，支持 TypeScript 类型收缩',
@@ -109,12 +108,12 @@ packageJson = {
   keywords: ['is', 'mudbean', 'typeof', 'javascript type', '类型检测', 'vvi'],
   homepage: 'https://npms.gleanings.cn/is',
   bugs: {
-    url: 'https://github.com/gleanings/is/issues',
+    url: 'https://github.com/hippopotomonstrosesquipedaliophobe/is/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/gleanings/is.git',
+    url: 'git+https://github.com/hippopotomonstrosesquipedaliophobe/is.git',
   },
   publishConfig: {
     access: 'public',

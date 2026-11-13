@@ -1,3 +1,4 @@
 ignoredBuiltDependencies:
   - unrs-resolver
+
 minimumReleaseAge: 0
